@@ -8,13 +8,13 @@
 CodaAPI.authenticate(coda_token)
 
 // Coda settings
-TARGET_DOC_ID = 'OsAi3NJvG2'
-TARGET_TABLE_ID = 'grid-ID2q1i1yLy'
+TARGET_DOC_ID = 'XXXXXXXXX'
+TARGET_TABLE_ID = 'grid-XXXXXXXXX'
 TARGET_ROW_ID_COLUMN = 'Coda Row ID' // You cannot have a column in your Coda table with this name
 
 // Sheets Settings
-SOURCE_SHEET_ID = '1AQLhubZzq2gsS9eaXesPG8g5jYVtl0YPlrmzmb8-boA'
-SOURCE_WORKSHEET_NAME = 'GSuite'
+SOURCE_SHEET_ID = 'XXXXXX'
+SOURCE_WORKSHEET_NAME = 'XXXXXXXXX'
 SOURCE_SHEET_SOURCE_ROW_COLUMN = 'Coda Source Row URL'  // Column name in Google Sheets to store source row URLs from Coda
 
 // Optional Settings
